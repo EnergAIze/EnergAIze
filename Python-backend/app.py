@@ -24,10 +24,6 @@ def hello_world():
     hwind = [0] * 3
     fwind = [0] * 15
 
-    # remove before commit
-    os.environ["WEATHER_API_KEY"] = os.getenv("WEATHER_API_KEY", default=None)
-    os.environ["IBM_API_KEY"] = os.getenv("IBM_API_KEY", default=None)
-    os.environ["IBM_URL"] = os.getenv("IBM_URL", default=None)
     # latitude = "28.7041"  # delhi
     # longitude = "77.1025"  # delhi
 
