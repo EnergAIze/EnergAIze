@@ -33,7 +33,7 @@ With the intent to help government plan the improved access to affordable and re
 
 ### How our technology solution can help
 
-Energize is an AI based solution that can help in better planning to improve access to clean energy
+EnergAIze is an AI based solution that can help in better planning to improve access to clean energy
 
 ### Our idea
 
@@ -87,9 +87,7 @@ The project currently does the following things.
 - Predicts the power generation output, By analyzing weather forcast of next 15 days.
 - If there is surplus/deficit, that is, the difference of Avg consumption (approx) and Avg forcasted generation for 15 days.
 
-In the future we plan to...
-
-See below for our proposed schedule on next steps after Call for Code 2023 submission.
+Below is roadmap that shows how we plan to elevate our application with valuable additions.
 
 ![Roadmap](./images/energAIze-Roadmap.png)
 
@@ -113,6 +111,8 @@ Follow [these](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=autoai
 #### Frontend deployment
 - [Follow React Frontend Readme](/Frontend/Readme.md)
 
+### live-demo
+Due to resource constrains we could not deploy our application for public access. However, above steps can be used to do a local setup.
  
 
 ### Authors
