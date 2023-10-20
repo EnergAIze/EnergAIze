@@ -109,7 +109,7 @@ Follow [these](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=autoai
 - [Follow Flask setup Readme](/Python-backend/Readme.md)
 
 #### Frontend deployment
-- [Follow React Frontend Readme](/Frontend/Readme.md)
+- [Follow React Frontend Readme](/Frontend/README.md)
 
 ### Live Demo
 Due to resource constraints we could not deploy our application for public access. However, above steps can be used to do a local setup.
