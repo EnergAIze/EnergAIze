@@ -104,11 +104,13 @@ Use weather.com api for data source
 - [NSRDB: National Solar Radiation Database
 ](https://nsrdb.nrel.gov/data-viewer)
 
-#### IBM Auto AI
-Following are the steps to build ML model using [IBM WatsonX Auto AI](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=autoai-building-experiment)
+#### IBM WatsonX Auto AI
+Follow [these](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=autoai-building-experiment) steps to build ML model using IBM WatsonX Auto AI.
 
-#### Web App
+#### Backend deployment
 - [Follow Flask setup Readme](/Python-backend/Readme.md)
+
+#### Frontend deployment
 - [Follow React Frontend Readme](/Frontend/Readme.md)
 
  
