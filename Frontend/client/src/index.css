@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  font-family: "Roboto";
+}
+
+td.MuiTableCell-root td {
+  background-color: #FF0000;
+}

@@ -1,0 +1,7 @@
+pandas
+requests
+pysolar
+timezonefinder
+pytz
+flask_cors
+flask
