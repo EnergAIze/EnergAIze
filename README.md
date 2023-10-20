@@ -111,8 +111,8 @@ Follow [these](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.7.x?topic=autoai
 #### Frontend deployment
 - [Follow React Frontend Readme](/Frontend/Readme.md)
 
-### live-demo
-Due to resource constrains we could not deploy our application for public access. However, above steps can be used to do a local setup.
+### Live Demo
+Due to resource constraints we could not deploy our application for public access. However, above steps can be used to do a local setup.
  
 
 ### Authors
